@@ -1,0 +1,54 @@
+1 answer : 
+Branches of accounting -
+1. Financial accounting, 
+2. cost accounting, 
+3. management accounting.
+Financial accounting - The object is to ascertain the results of business operations during the particular period and to state that at financial position as on a date at the end of the period.
+cost accounting -  The object is to find out the costs of goods produced for services rendered by a business. 
+management accounting -  The object is to supply a relevant information at appropriate time to the management to enable it to take decisions and effect control.
+
+
+
+2 answer: 
+Petty book is meant to be a small cash book which records small payments, such as postage due, reimbursement, office supplies, food or drinks, etc.
+Process of preparing a petty cash book: 
+1. A petty cash account is opened in Ledger
+2. When cash or cheque is handed over to the petty cashier It is recorded on the payments direction of the main cash book 
+3.By closing of periods, sum of amount spent on various expenses group is ascertained by totally each of the analytical columns.
+4. petty cash account is credited in the ledger after passing entry in 'General journal".
+5. Such balance is taken to trial balance from the ledger and finally to the assets of the balance sheet.
+
+
+
+3rd answer: 
+Prepaid expenses: 
+Prepaid expenses are costs a company will have in the future or anticipate they will have down the road, which they pay for ahead of time.
+In general, some prepaid expenses include rent, utilities, and insurance.
+
+Provision for doubtful debts: 
+The provision for doubtful debts is the estimated amount of bad debt that will arise from accounts receivable that have been issued but not yet collected. It is identical to the allowance for doubtful accounts.
+
+
+
+4th answer :
+Depreciation is a planned, gradual reduction in the recorded value of an asset over its useful life by charging it to expense. Depreciation is applied to fixed assets, which generally experience a loss in their utility over multiple years. Depreciation is used to recognize the expense over the period of time.
+
+BRS - BANK RECONCILIATION STATEMENT:
+A bank reconciliation statement is a summary of banking and business activity that reconciles an entity’s bank account with its financial records. The statement outlines the deposits, withdrawals, and other activities affecting a bank account for a specific period.
+
+
+
+5th answer:
+receipts and payment account:
+1. It is just like a cash book and based on real account.
+2. The receipts and payments account will have opening and closing balances.
+3. All receipts both capital and revenue are recorded on the debit side and payments are recorded on credit side.
+4. No adjustments such as prepaid expenses, outstanding expenses income received in advance,etc are required to be done.
+5. This account is prepared for a particular period and the receipt weather relates to this year for previous or future Year should be recorded.
+
+Income and Expenditure account:
+1. It is just like a profit and loss account and based on the nominal account. 
+2. There will be no opening and closing balances in this account.
+3. All revenue receipts and income are recorded on the credit side and all revenue payments and expenses are recorded on the debit side. 
+4. The difference will be either excess of income over expenditure or excess of Expenditure over income. 
+5. This account is based on mercantile system and all the adjustments should be incorporated in this account
